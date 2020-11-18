@@ -1,0 +1,25 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "Blogg do Grupo Atlas Shrugged, criado usando node e react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saiiru/ReactApp.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Sairu",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/Saiiru/ReactApp/issues"
+  },
+  "homepage": "https://github.com/Saiiru/ReactApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
